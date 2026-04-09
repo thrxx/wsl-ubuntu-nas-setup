@@ -15,7 +15,7 @@
 ### 1. Скачайте репозиторий
 
 ```bash
-git clone https://github.com/ваш-username/wsl-ubuntu-nas-setup.git
+git clone https://github.com/thrxx/wsl-ubuntu-nas-setup.git
 cd wsl-ubuntu-nas-setup
 ```
 
