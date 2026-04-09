@@ -1,0 +1,22 @@
+# Файлы базы данных FileBrowser
+*.db
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Директория с файлами пользователя (если accidentally добавлена)
+files/
