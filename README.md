@@ -152,7 +152,7 @@ wsl bash ~/nas-setup/start-filebrowser.sh
 
 ## Лицензия
 
-MIT
+MIT License — см. файл [LICENSE](LICENSE)
 
 ## 📬 Контакты
 
